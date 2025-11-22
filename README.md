@@ -8,7 +8,7 @@ Gitpod Classic is a developer platform providing on-demand, pre-configured devel
 
 > **Important: [Gitpod Classic pay-as-you-go will sunset on October 15th](https://ona.com/stories/gitpod-classic-payg-sunset)** 2025 (this date does not apply to Enterprise customers). All existing pay-as-you-go users should migrate to Ona before this date. See our blog for detailed instructions.
 
-## Documentation
+### Documentation
 
 All documentation can be found on [www.gitpod.io/docs](https://www.gitpod.io/docs). For example, see [Gitpod tutorial](https://www.gitpod.io/docs/introduction/gitpod-tutorial) and check the following helpful resources:
   - [Workspace Lifecycle](https://www.gitpod.io/docs/configure/workspaces/workspace-lifecycle)
